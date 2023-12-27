@@ -12,7 +12,7 @@ export default function App() {
 
         <div className="md:container md:mt-14 lg:flex lg:gap-12">
           <figure className="hidden md:flex md:items-center md:justify-center lg:min-w-[200px]" >
-            <img src="/src/assets/capa.png" alt="" className="object-cover" />
+            <img src="capa.png" alt="" className="object-cover" />
           </figure>
 
           <div className="p-8 lg:p-0 bg-dark-10 md:bg-opacity-0 rounded-t-2xl">
