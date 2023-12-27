@@ -1,30 +1,49 @@
-# React + TypeScript + Vite
+<img alt="Cover" src=".github/cover.jpg" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">
+  Loki - Desafio 06
+</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#link-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</br>
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## :rocket: Sobre o desafio
 
-- Configure the top-level `parserOptions` property like this:
+Reproduzir layout de uma página inspirada no Loki. <br /> Loki é uma série da Marvel Studios que mostra o vilão da mitologia nórdica interpretado por Tom Hiddleston como Deus da Travessura em uma história que sucede os acontecimentos de Vingadores: Ultimato
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+</br>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## :link: Deploy
+Para visualizar o resultado do projeto **[clique aqui](https://loki-desafio-06-codelandia.vercel.app/)**
+
+</br>
+
+## :notebook: Nesse projeto foi utilizado
+
+- **`Vite`**
+
+- **`Tailwind CSS`**
+</br>
+
+## :art: Layout
+
+Para acessar o layout do projeto no figma **[clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=257087%3A1692&mode=design&t=HB8hqExKL54tegZC-1)**
+
+Layout desenvolvido por [Iuri Code](https://www.instagram.com/iuricode/)
+
+</br>
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+
+---
+
+Feito por [Lucas Samuel](https://github.com/lucassamuel94)
